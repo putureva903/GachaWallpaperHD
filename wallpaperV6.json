@@ -3,10 +3,10 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-2631643370199907/69742516",
-      "main_ads_intertitial":"ca-app-pub-2631643370199907/2065233",
-      "backup_ads_banner":"629878c91ee5daf6",
-      "backup_ads_intertitial":"08c51c3fa604fe9a",
+      "main_ads_banner": "ca-app-pub-2631643370199907/7029486432",
+      "main_ads_intertitial":"ca-app-pub-2631643370199907/3090241429",
+      "backup_ads_banner":"b3da324d195269e4",
+      "backup_ads_intertitial":"3e333c3197b75af9",
       "interval_intertitial": 4,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
@@ -41,23 +41,101 @@
     },
 	{
       "id":4,
+      "title":"Unicorn Wallpapers 4K [UHD]",
+      "image":"https://play-lh.googleusercontent.com/DGlq6Du63OcrSZ326qNwg5EecO4PiiMppIeiGC2VW_syZ_3HX0eziqJl8QGTj15PG8M=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.UnicornWallpapers&hl=in&gl=US"
+    },
+	{
+      "id":5,
       "title":"Galaxy Wolf Wallpapers 4K",
       "image":"https://play-lh.googleusercontent.com/UQDpPpXDquuHXSJjNYRjwGKyxdvf4EPnUoGlMG_BEAONnPCWlhyzbU0-ZRrncYY3lWld=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.GalaxyWolfWallpapers&hl=in&gl=US"
     },
 	{
-      "id":5,
-      "title":"Unicorn Wallpapers 4K [UHD]",
-      "image":"https://play-lh.googleusercontent.com/DGlq6Du63OcrSZ326qNwg5EecO4PiiMppIeiGC2VW_syZ_3HX0eziqJl8QGTj15PG8M=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.UnicornWallpapers&hl=in&gl=US"
+      "id":6,
+      "title":"Flower Wallpaper 4K",
+      "image":"https://play-lh.googleusercontent.com/UmSE5NHUhw6vHWZhub4mhrCYD4jkc-9aocsD1Qk49VT0lROWTWSqljHJDgKoKIIzu51N=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.MLWallpapers&hl=in&gl=US"
+    },
+	{
+      "id":7,
+      "title":"Boca Toca Wallpaper HD",
+      "image":"https://play-lh.googleusercontent.com/-ibnYV9UKOcHilG6_DaMtVKYI3zDk7pv4D6Hy4LxVKjSz-nmFjuF9sN2Ti-79IEbERU=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.BocaTocaWallpaper&hl=in&gl=US"
+    },
+	{
+      "id":8,
+      "title":"FF Wallpapers 4K [UHD]",
+      "image":"https://play-lh.googleusercontent.com/532yf81osbtG4BqKvgBRsItX3WEAPRh-nAiIChSPKIEADd6keWeRVI6XsfDiPmRXDY8=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.FFWallpapers&hl=in&gl=US"
+    },
+	{
+      "id":9,
+      "title":"Kaiju Godzilla Wallpaper HD",
+      "image":"https://play-lh.googleusercontent.com/yGOr-RQCh7ruJiqF65z4heKAi0EcgXLrqtFRGPKl1U65TiZXV2PmlQIb2QX3EDjziQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.KaijuGodzillaWallpaper&hl=in&gl=US"
+    },
+	{
+      "id":10,
+      "title":"Toca Boca Outfit Ideas",
+      "image":"https://play-lh.googleusercontent.com/SNq-Qn3Ad1qYJSnLXoHV46_1CRQ7jZojpXZpz5JmMrsG1TLoQLdEO2oGXpfKgbUJW7a6=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.TocaBocaOutfitIdeas&hl=in&gl=US"
+    },
+	{
+      "id":11,
+      "title":"My Genshin Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/mEqkJpjp_k0FhEdnZH24jdU4SDfi8GsvjcFaXDe6PQdUSM_Da75PnyYx8KFRYtsfGi-W=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.MyGenshinWallpapers&hl=in&gl=US"
+    },
+	{
+      "id":12,
+      "title":"Pony Wallpaper 4K [UHD]",
+      "image":"https://play-lh.googleusercontent.com/GV1NCJSqkD5QS6Bc_8l50AL2I3WLmJX2p2X7tB-D0F9bcEUbhAYbswRsFuIxhNEUJhE=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.PonyWallpaper&hl=in&gl=US"
+    },
+	{
+      "id":13,
+      "title":"Toca Boca Room Ideas",
+      "image":"https://play-lh.googleusercontent.com/nTex2RC735vgKw6O9VApMtQzNwGg1ZnMebqEQsnnPi3Lg1Qes6xReFRhV3e0aaK5dQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.TocaBocaRoomIdeas&hl=in&gl=US"
+    },
+	{
+      "id":14,
+      "title":"Miga Town Apartment Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/3JBQ5SO0fnH-7By0jWGNint3y2bDX61J43puik6UqZDTwYqGjunpxpau8kjOgJSqKwk=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.MigaTownApartmentWallpapers&hl=in&gl=US"
+    },
+	{
+      "id":15,
+      "title":"Rainbow Friend Wallpaper HD",
+      "image":"https://play-lh.googleusercontent.com/gPSG97UNPCAtRTM_J64OUoNT4iwtvi4YWY8TQWtUHQMpNts-S3tDMbE0lMxGazoVJmxI=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.RainbowFriendWallpaperHD&hl=in&gl=US"
+    },
+	{
+      "id":16,
+      "title":"Spy x Family Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/k2mAHqGhSnA1nx4tBrd2ZHyJkU_ZL6dVAuuMLRPU19Td7XJYXm59lzPIAMc4HWvl9i4=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.SpyxFamilyWallpapers&hl=in&gl=US"
+    },
+	{
+      "id":17,
+      "title":"Sakura School Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/Oi-RtTYQSClNJnXd6zzShb7s5jCKhC1GKQgqNAWHX_ZjF-7Tb8rMcevCi3AEPH164w=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.SakuraSchoolWallpapers&hl=in&gl=US"
+    },
+	{
+      "id":18,
+      "title":"Nebula Wallpapers 4K",
+      "image":"https://play-lh.googleusercontent.com/PO3_fQoqhn207GulGHKyxDsJBr2F_1vNaTDu3viYX8ogSMNcOS4yi3oPk1OSqNGl_A=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.NebulaWallpapers&hl=in&gl=US"
     }
   ],
 
   "Categories": [
     {
       "id": 1,
-      "name_category": "ML",
-      "image": "https://i.pinimg.com/564x/b0/ab/1b/b0ab1bf41118e0c56eb10a50be41b5c9.jpg"
+      "name_category": "Gacha",
+      "image": "https://i.pinimg.com/564x/e2/35/20/e235202a378c0121f56e9b4f4c1cd0f6.jpg"
 
     }
 	
@@ -67,604 +145,605 @@
   [
     {
       "id":1,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/ac/df/26/acdf2658c74a6d16b01e3fe21485d266.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/14/af/9d/14af9df96b6f6722b5bf9d35eef8fff1.jpg"
     },
 	{
       "id":2,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/b0/ab/1b/b0ab1bf41118e0c56eb10a50be41b5c9.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/f8/9a/3f/f89a3fe6304398eb6461b822b658282d.jpg"
     },
 	{
       "id":3,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/ce/b1/00/ceb100559bd5090fa306cf38c04f8db5.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/7f/57/0f/7f570fe3c7d2e2332d2af1ae9d03b105.jpg"
     },
 	{
       "id":4,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/2d/db/66/2ddb66d3ac2e25c11a3ea44e22f3d926.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/7b/61/a2/7b61a2b222cb15574a14ae229877798b.jpg"
     },
 	{
       "id":5,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/0e/12/76/0e12766e9537ddde1b979acd31d0be71.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/88/68/d1/8868d14b6c59fa09feb972b8f996b0ec.jpg"
     },
 	{
       "id":6,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/14/09/22/140922864ff823ce1e55ccc5b6224d3d.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/c1/94/e1/c194e168581b093b6b21b9a01c2b34c4.jpg"
     },
 	{
       "id":7,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/77/9f/82/779f82783af40294e2f3fcc2b0fc2c1f.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/ed/55/c6/ed55c6d54528f865a5259153f376d842.jpg"
     },
 	{
       "id":8,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/36/91/f7/3691f7c4d7abaa3438d5d14dd1b7c4ed.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/77/44/7f/77447fc6c22bab9536674895df9d719c.jpg"
     },
 	{
       "id":9,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/eb/f9/11/ebf91103e351e25a1f2bcd8145310a2d.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/18/a9/9a/18a99ab1ffba6450a4e4e46a74ad46e4.jpg"
     },
 	{
       "id":10,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/f6/da/44/f6da446818ce55b06d0de7ad4a61e0bb.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/fb/7d/35/fb7d355ca5c4b1791c4b2100722c12ef.jpg"
     },
-	{
+	 {
       "id":11,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/e6/a7/c0/e6a7c02169b30e6ab37ec4e0bb9abead.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/f5/60/98/f560987d6f4cf6f075066fd96bcf5ecc.jpg"
     },
 	{
       "id":12,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/d2/0a/c3/d20ac3bfe904bd40411468e5e2e6bb2f.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/c3/5d/26/c35d26c6ecf51410c7b668f31567d6a4.jpg"
     },
 	{
       "id":13,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/87/d8/2e/87d82e297d7398055c905a90aed79f72.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/c6/f5/ad/c6f5ad91ee168cc8aa9e2158d060a372.jpg"
     },
 	{
       "id":14,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/0f/4e/f4/0f4ef438de39c7cf36b3c1f60a88c3d6.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/06/28/cc/0628cc42649d1f386f9b5a7174c9151e.jpg"
     },
 	{
       "id":15,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/6f/50/6c/6f506cc07fd76e28da05fa5f021bf379.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/2f/0b/30/2f0b306db19858c0da538af4d4dbb1b6.jpg"
     },
 	{
       "id":16,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/ca/51/bc/ca51bcde6c1eef1bec6198ad92b0d6f9.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/84/be/c7/84bec7709105f8d96160a8a97f7ea00b.jpg"
     },
 	{
       "id":17,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/b0/be/4d/b0be4d74a4815e2544d4d2aa008252e9.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/6e/cd/af/6ecdaf19ada1108bd710c3aa6842368d.jpg"
     },
 	{
       "id":18,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/0a/4d/2b/0a4d2bd818a9caf8b8c58f08df633be7.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/8b/fa/5b/8bfa5b3e4626da743873906de8f70542.jpg"
     },
 	{
       "id":19,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/82/91/5f/82915fc51d711d566444509ec366c7ec.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/736x/03/0d/8a/030d8a6961ddc599dcbf74d02644389b.jpg"
     },
 	{
       "id":20,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/be/62/e3/be62e32196c53fb570385703ae861bef.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/b7/88/29/b788299e40670e50fe5bf1de93893a26.jpg"
     },
-	{
+	 {
       "id":21,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/1a/bf/51/1abf51a400c9b27562dd1b88d5bedbe1.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/f5/e2/58/f5e258d31a833036de4e838bb4dfdf9e.jpg"
     },
 	{
       "id":22,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/93/e1/6d/93e16dcf749631096229aad000336ed4.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/8e/42/d1/8e42d13ebc6a58c831f624a122cc501b.jpg"
     },
 	{
       "id":23,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/7f/31/f4/7f31f43a9842f105b9b8256ad17655ae.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/23/d5/94/23d594886160c98397e8194a5eb74f13.jpg"
     },
 	{
       "id":24,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/af/00/10/af001068103736f6d16f32ffff4ef124.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/00/21/98/0021988c2b6f606d13d902a50caf1f11.jpg"
     },
 	{
       "id":25,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/9d/92/0a/9d920a213011702864faf8c689575e8d.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/07/b8/a9/07b8a9dbf4582abc3da0eab094465cb7.jpg"
     },
 	{
       "id":26,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/29/fb/4c/29fb4c1196d5f0402c54f0df0f67346a.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/3c/7e/f0/3c7ef05cea92895593bc3bad0a8c0464.jpg"
     },
 	{
       "id":27,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/82/96/84/82968438b908b68bacf1c89dbba4db1c.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/53/21/3a/53213afadf6e23e99038a3aa8db5bad3.jpg"
     },
 	{
       "id":28,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/bb/e0/74/bbe07459c65a44cd0e0c6ba53b7e6e3b.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/e2/35/20/e235202a378c0121f56e9b4f4c1cd0f6.jpg"
     },
 	{
       "id":29,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/18/49/d9/1849d9bfaba19a1215cc588ca16dcd81.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/cb/0b/6e/cb0b6e1fc3d3ef017b8110e04665e6f0.jpg"
     },
 	{
       "id":30,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/94/1a/75/941a750dc8d2ace38ab32d3066a784c7.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/0a/25/eb/0a25ebb96b356145b1722a3184f28331.jpg"
     },
-	{
+	 {
       "id":31,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/eb/60/78/eb6078628e7e9c26375c9044337e50df.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/5c/ea/80/5cea805802415a97d46821e34dd75d53.jpg"
     },
 	{
       "id":32,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/57/93/89/5793896a3335dbe8168cc5f7a3450dda.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/8f/1c/e4/8f1ce48fbf5fc74070a0613f66b62ca9.jpg"
     },
 	{
       "id":33,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/7f/f1/c4/7ff1c4a028c41bfabbf1b0d428bce0b9.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/c0/f7/64/c0f76413fca3f241f322f5fcd9e8562d.jpg"
     },
 	{
       "id":34,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/57/08/40/5708409c29f8122b32a3a76f52b12016.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/19/a7/63/19a76332e98fb65f11ed42d2f88f214d.jpg"
     },
 	{
       "id":35,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/0a/45/e3/0a45e30ef136cb85693ed9d6a3a0d7e0.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/6a/2f/90/6a2f903d242215d20aadad98c0f8a40c.jpg"
     },
 	{
       "id":36,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/24/50/c2/2450c2997dda2295e09901790768ce51.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/54/ea/a1/54eaa19b7ffb64c0b749ef28544a820f.jpg"
     },
 	{
       "id":37,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/87/bc/e0/87bce02e0d9d874b1db1a6755275da90.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/d6/4d/cb/d64dcb5032127da722b890cfeb50d346.jpg"
     },
 	{
       "id":38,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/5e/ba/3a/5eba3a3fc932fc85c71a5bc3221b760e.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/9b/cf/22/9bcf22f427398ee7de8479998b49a370.jpg"
     },
 	{
       "id":39,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/bc/aa/38/bcaa38e3bf257c3b76f46227f5ed8a98.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/e3/6e/de/e36edebb5d1e88408e02b0b70dde1df5.jpg"
     },
 	{
       "id":40,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/76/00/01/760001112a6cf348a3082eff2b6a97f5.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/1c/43/f2/1c43f220ca54324dd4552cdf5636a8ab.jpg"
     },
-	{
+	 {
       "id":41,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/40/55/87/4055879877347692d7b233bd20371708.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/99/a3/bb/99a3bbd6fc32b77df53099b5d82aae06.jpg"
     },
 	{
       "id":42,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/70/11/de/7011de0717efeded57fb8dae24b340f4.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/44/fd/18/44fd1873afc0129bbc1ccd82e370ab3c.jpg"
     },
 	{
       "id":43,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/28/05/79/280579cf8290b369bd3adaf7cef274be.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/736x/f2/72/0e/f2720ea75f99104dff75326db9f2a309.jpg"
     },
 	{
       "id":44,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/99/7a/bd/997abdd47391326c3fb60152f84a9e3c.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/fc/ad/94/fcad94e6612e104f496522bfb8eadd02.jpg"
     },
 	{
       "id":45,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/15/cf/fb/15cffb0334bfc81a442f101fc6bbc9cf.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/67/79/f9/6779f9b9822a05125646e5d388122e2a.jpg"
     },
 	{
       "id":46,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/bc/47/e6/bc47e65a721378d0e44f603f10cd3dbd.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/78/f4/b9/78f4b9d13266b8be82667bf62909e124.jpg"
     },
 	{
       "id":47,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/89/75/4c/89754c0b1cb3c2cc36e853ee91bcc3ab.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/33/bc/11/33bc1109ee5158783624eeac66c490bc.jpg"
     },
 	{
       "id":48,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/1d/2b/1f/1d2b1f0d5a08b50031e703320cb13ff2.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/22/b5/62/22b5629ee1dab14dae68301cc28f7f01.jpg"
     },
 	{
       "id":49,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/fb/5a/53/fb5a530d6ad3cec4ace8a36b80ba83fc.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/97/2b/91/972b91d691840096a02e2c8bfdaf5e17.jpg"
     },
 	{
       "id":50,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/79/1e/15/791e15998e816c2dfd16009ac2138499.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/d7/fc/ec/d7fcec85bc21117c3787425d2b787fe9.jpg"
     },
-	{
+	 {
       "id":51,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/27/36/c6/2736c6b2b9d00e313ddcccaea264968c.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/d9/3c/ed/d93ced30b04dd0d14aa56254adfc01d9.jpg"
     },
 	{
       "id":52,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/51/cc/bb/51ccbb96801d4474aaa1fe0b45421b2f.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/9a/1d/78/9a1d78c696fbf7d6dbd891be29a929bc.jpg"
     },
 	{
       "id":53,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/81/8d/7b/818d7bc0ceb28aff7bd121bd32176f10.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/4f/9f/2f/4f9f2f3e62a7c864e8b20f917fa17054.jpg"
     },
 	{
       "id":54,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/fd/34/88/fd34885125dba135cf69e03221c25ca4.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/18/10/31/1810314975562774dea72de6bad9dde6.jpg"
     },
 	{
       "id":55,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/60/98/4f/60984f3e465d83b8ec38f104a3ae7107.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/75/11/de/7511de527f3bc2ef1d9fc2ce9d91531e.jpg"
     },
 	{
       "id":56,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/fb/b7/cc/fbb7ccc39537905ad4c9b4dd5721410e.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/4f/68/68/4f68688bc795de1e1961d283b095a900.jpg"
     },
 	{
       "id":57,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/11/57/fd/1157fd3765dc77c12d8b597c6e8deff8.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/0e/80/4d/0e804d01a4a41d53b8c5311d62262d25.jpg"
     },
 	{
       "id":58,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/bd/f7/93/bdf7932ebccfed6caf9853ef3de04230.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/29/28/94/2928949e4a37f7a55c9c32b78577ffe5.jpg"
     },
 	{
       "id":59,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/5c/96/4f/5c964fb2404dfb0cfc8710f06177ffd5.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/2b/43/a2/2b43a2eb07413d1dc26530f3b22684fb.jpg"
     },
 	{
       "id":60,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/ba/bd/6f/babd6f9477d2635eb5a04146b799d8b1.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/ec/9f/02/ec9f029f2301a745063b9b0baf944896.jpg"
     },
-	{
+	 {
       "id":61,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/42/36/a8/4236a8c0fec7deecd6d44c1b4cb66ce8.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/c5/80/4d/c5804d81bbb9b86bebe13cb4ab2444b5.jpg"
     },
 	{
       "id":62,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/9d/7d/b5/9d7db5b35f7db85af3c5478e31c5b180.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/b4/b8/78/b4b87811ce86491b39aafd8c8a4ad98d.jpg"
     },
 	{
       "id":63,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/80/b3/0e/80b30ec1d71108e8bef7d5c82e4e84e3.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/bd/f4/5f/bdf45f105c42cd17abde8656c8c013ab.jpg"
     },
 	{
       "id":64,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/4c/93/ae/4c93ae9ae4904f1c8b5aebca27e446af.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/29/e4/03/29e403a8dfa27a41894db4584c4eefc2.jpg"
     },
 	{
       "id":65,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/32/c2/7a/32c27aa47e1af38f6fd88aaf5b64d0e5.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/1c/06/de/1c06de566d93c69c05f2e456c9104ae5.jpg"
     },
 	{
       "id":66,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/68/26/56/682656d028cdd9895b5fa4ff2affa747.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/d1/92/40/d19240f001a1724f25ab81bf97a1a30f.jpg"
     },
 	{
       "id":67,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/17/b9/8e/17b98e93358098d70b0d183dd06b2f80.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/9d/bc/46/9dbc4655f73fe780fad08614b577f6ff.jpg"
     },
 	{
       "id":68,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/ad/21/a1/ad21a107481275654663a778c2cc9f34.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/28/54/53/285453a5a0753141ffd9ea4d8853ddb5.jpg"
     },
 	{
       "id":69,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/27/f6/ab/27f6ab359a4553f74cff346240783f90.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/56/91/05/56910541d302978d9a96ed8f2a5ee67f.jpg"
     },
 	{
       "id":70,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/b5/62/2e/b5622e67720ee394f11d19f4ecb04963.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/af/85/62/af8562cee20fe726e955b1c9d0836618.jpg"
     },
-	{
+	 {
       "id":71,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/aa/d8/92/aad8929cb36857d8e9c6d1828ead2e08.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/b7/d7/55/b7d755a429bb88b934fac8791667213b.jpg"
     },
 	{
       "id":72,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/736x/98/00/0b/98000b2dd9029186500ecf98d1107a37.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/15/2e/95/152e954d14f9b4d50ce3a8aaf00936c5.jpg"
     },
 	{
       "id":73,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/7a/ed/b4/7aedb4f09a4c9f663f0cee8f058cf88b.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/e4/23/3c/e4233ce632ebf5517a7248393727abb2.jpg"
     },
 	{
       "id":74,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/c4/6a/6b/c46a6bb1ddf95319c9c209d67effb54c.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/99/97/6a/99976ac72a0c78842db94a5d0d05df2a.jpg"
     },
 	{
       "id":75,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/69/64/6c/69646cc8993c76dbafe84c70a73e2ab8.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/fa/d0/dd/fad0dd297c4890b1575ca0a170999f02.jpg"
     },
 	{
       "id":76,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/55/fa/4c/55fa4c813667f6771c211e5dbdbf18d4.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/2f/b0/8a/2fb08a3fed66e65524d7bf16b0d70515.jpg"
     },
 	{
       "id":77,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/89/d7/40/89d7404395669f109c342bb2ffa2b5cf.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/d0/24/0b/d0240ba32a9657c9c9a0eeb2a53964d1.jpg"
     },
 	{
       "id":78,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/e9/eb/6b/e9eb6b8bf09b4ac1debeed9ee3b26ab8.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/32/98/94/329894d01849bc73e268fdea9d5d9c5e.jpg"
     },
 	{
       "id":79,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/15/c1/bf/15c1bfbd06e05f32de20609b812e8d86.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/06/c7/1b/06c71beee03f09a7072a78dea5a24299.jpg"
     },
 	{
       "id":80,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/6f/07/b4/6f07b41ed20cf0961d52fbd430daae61.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/736x/0c/31/e7/0c31e720d7156dea9bbb426126a10db2.jpg"
     },
-	{
+	 {
       "id":81,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/c4/27/1f/c4271f1cd7b8df86c5e2b9a0622a3896.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/7a/bb/99/7abb994d146f42d6042256221b77d597.jpg"
     },
 	{
       "id":82,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/fb/1d/c3/fb1dc33d64688125ce5e60eff75ef771.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/8c/9e/b0/8c9eb05f5a6edfd2f85e0846e8f1973a.jpg"
     },
 	{
       "id":83,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/90/4c/2c/904c2c708090c0bf42b010e293307d39.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/b6/4e/44/b64e44e6cf17a26334211f023617f8e8.jpg"
     },
 	{
       "id":84,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/96/61/dc/9661dcb597bb8473bda5114526ecf481.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/750x/f3/3c/45/f33c4501480d2504581be6369f0b4e84.jpg"
     },
 	{
       "id":85,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/5b/06/40/5b0640b9da340a4d4681ea4b21c93e77.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/6c/64/76/6c6476b98d17454085b8a651d51d5154.jpg"
     },
 	{
       "id":86,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/3b/f2/40/3bf24056238c4ecf70bb4ab43ad21195.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/ed/3b/fc/ed3bfcca7e748deee330e17b12d15ccb.jpg"
     },
 	{
       "id":87,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/d2/c5/8e/d2c58ea545501cae37f9f1886993de60.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/db/6b/80/db6b80741b96d27f8c7b90811193e8f2.jpg"
     },
 	{
       "id":88,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/a1/45/fc/a145fcafe39269bd317d35e1bb9c7de2.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/736x/78/42/c5/7842c55b84bb1baaaee6da39490f2acb.jpg"
     },
 	{
       "id":89,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/22/74/f8/2274f8d3a4c5d3612c3ba0f24c2ba403.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/07/2d/f5/072df51997b0f80373b7713c1e059123.jpg"
     },
 	{
       "id":90,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/ad/ae/9b/adae9b3c76b418c12e39d813c86b5610.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/2e/fd/3c/2efd3ce49eabb8505c65fa1a8617f077.jpg"
     },
-	{
+	 {
       "id":91,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/76/da/a2/76daa210105a5e06a5ab144c7bbd5164.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/2d/fa/4a/2dfa4a28309b95dc93db9bb852c041a0.jpg"
     },
 	{
       "id":92,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/1b/7b/b1/1b7bb1490d3def437177a0299e42fff5.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/e0/af/cd/e0afcd482fb805d5b50ff3bb9f5bcbd9.jpg"
     },
 	{
       "id":93,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/32/42/b6/3242b68a7abfc9ef63e7d97bf7306371.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/736x/f1/2d/d8/f12dd81dd4da5f38a3f2fe886b0f0273.jpg"
     },
 	{
       "id":94,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/c5/e2/32/c5e2321dabaaaedf5181d398059e7a19.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/b5/ab/e2/b5abe241878b9bbda611ffbc30f6d732.jpg"
     },
 	{
       "id":95,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/d9/d4/47/d9d44725f60a1aa4271fdc1305d2886c.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/5c/fc/cd/5cfccd31f6480f011500ffad0993ccd5.jpg"
     },
 	{
       "id":96,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/6f/a7/c7/6fa7c727a4022f2b021f46be48839124.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/736x/78/24/1e/78241e7476ea5cd3f33fbe261cdb9519.jpg"
     },
 	{
       "id":97,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/45/68/5d/45685d95ce43a8c9315303a40e03b3d8.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/0d/fb/87/0dfb87d1eba2c8cbc9751566f955c9ab.jpg"
     },
 	{
       "id":98,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/27/d3/5b/27d35bb99615cfdc19d429bccb7a2cbf.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/6a/db/3d/6adb3d366362d0946e292eec9dd28458.jpg"
     },
 	{
       "id":99,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/30/8f/44/308f44fce91f5504852e44e953fb33af.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/83/93/c6/8393c6bc8e6b6afb8102045fdff01aca.jpg"
     },
 	{
       "id":100,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/13/32/fd/1332fd9005b8b24b1b60c8b5c6d7bd66.jpg"
+      "name_category": "Gacha",
+      "title":"Gacha Wallpaper",
+      "image":"https://i.pinimg.com/564x/75/e9/3c/75e93c54512cb9cfb3eafa7772835bc4.jpg"
     }
+	
 	
 	
   ]
