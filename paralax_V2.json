@@ -3,13 +3,13 @@
     {
        "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "admobe",
-      "main_ads_intertitial":"admobe",
-      "main_ads_natives":"admobe",
-      "backup_ads_natives":"applovin",
-      "backup_ads_banner":"applovin",
-      "backup_ads_intertitial":"applovin",
-      "open_ads_admob":"admobe",
+      "main_ads_banner": "ca-app-pub-2631643370199907/7029486432",
+      "main_ads_intertitial":"ca-app-pub-2631643370199907/3090241429",
+      "main_ads_natives":"ca-app-pub-2631643370199907/8712645293",
+      "backup_ads_natives":"bb3c8d5755e44db5",
+      "backup_ads_banner":"b3da324d195269e4",
+      "backup_ads_intertitial":"3e333c3197b75af9",
+      "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
@@ -30,709 +30,709 @@
   "Categories": [
     {
       "name_category": "1",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/84/be/c7/84bec7709105f8d96160a8a97f7ea00b.jpg"
     }
   ],
   "Wallpaper": [
     {
       "id": 1,
       "name_category": "1",
-      "wallpaper_name": "Image 1",
+      "wallpaper_name": "Gacha 1",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/14/af/9d/14af9df96b6f6722b5bf9d35eef8fff1.jpg"
     },
 	{
       "id": 2,
       "name_category": "1",
-      "wallpaper_name": "Image 2",
+      "wallpaper_name": "Gacha 2",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/f8/9a/3f/f89a3fe6304398eb6461b822b658282d.jpg"
     },
 	{
       "id": 3,
       "name_category": "1",
-      "wallpaper_name": "Image 3",
+      "wallpaper_name": "Gacha 3",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/7f/57/0f/7f570fe3c7d2e2332d2af1ae9d03b105.jpg"
     },
 	{
       "id": 4,
       "name_category": "1",
-      "wallpaper_name": "Image 4",
+      "wallpaper_name": "Gacha 4",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/7b/61/a2/7b61a2b222cb15574a14ae229877798b.jpg"
     },
 	{
       "id": 5,
       "name_category": "1",
-      "wallpaper_name": "Image 5",
+      "wallpaper_name": "Gacha 5",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/88/68/d1/8868d14b6c59fa09feb972b8f996b0ec.jpg"
     },
 	{
       "id": 6,
       "name_category": "1",
-      "wallpaper_name": "Image 6",
+      "wallpaper_name": "Gacha 6",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/c1/94/e1/c194e168581b093b6b21b9a01c2b34c4.jpg"
     },
 	{
       "id": 7,
       "name_category": "1",
-      "wallpaper_name": "Image 7",
+      "wallpaper_name": "Gacha 7",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ed/55/c6/ed55c6d54528f865a5259153f376d842.jpg"
     },
 	{
       "id": 8,
       "name_category": "1",
-      "wallpaper_name": "Image 8",
+      "wallpaper_name": "Gacha 8",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/77/44/7f/77447fc6c22bab9536674895df9d719c.jpg"
     },
 	{
       "id": 9,
       "name_category": "1",
-      "wallpaper_name": "Image 9",
+      "wallpaper_name": "Gacha 9",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/18/a9/9a/18a99ab1ffba6450a4e4e46a74ad46e4.jpg"
     },
 	{
       "id": 10,
       "name_category": "1",
-      "wallpaper_name": "Image 10",
+      "wallpaper_name": "Gacha 10",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/fb/7d/35/fb7d355ca5c4b1791c4b2100722c12ef.jpg"
     },
 	{
       "id": 11,
       "name_category": "1",
-      "wallpaper_name": "Image 11",
+      "wallpaper_name": "Gacha 11",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/f5/60/98/f560987d6f4cf6f075066fd96bcf5ecc.jpg"
     },
 	{
       "id": 12,
       "name_category": "1",
-      "wallpaper_name": "Image 12",
+      "wallpaper_name": "Gacha 12",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/c3/5d/26/c35d26c6ecf51410c7b668f31567d6a4.jpg"
     },
 	{
       "id": 13,
       "name_category": "1",
-      "wallpaper_name": "Image 13",
+      "wallpaper_name": "Gacha 13",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/c6/f5/ad/c6f5ad91ee168cc8aa9e2158d060a372.jpg"
     },
 	{
       "id": 14,
       "name_category": "1",
-      "wallpaper_name": "Image 14",
+      "wallpaper_name": "Gacha 14",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/06/28/cc/0628cc42649d1f386f9b5a7174c9151e.jpg"
     },
 	{
       "id": 15,
       "name_category": "1",
-      "wallpaper_name": "Image 15",
+      "wallpaper_name": "Gacha 15",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/2f/0b/30/2f0b306db19858c0da538af4d4dbb1b6.jpg"
     },
 	{
       "id": 16,
       "name_category": "1",
-      "wallpaper_name": "Image 16",
+      "wallpaper_name": "Gacha 16",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/84/be/c7/84bec7709105f8d96160a8a97f7ea00b.jpg"
     },
 	{
       "id": 17,
       "name_category": "1",
-      "wallpaper_name": "Image 17",
+      "wallpaper_name": "Gacha 17",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/6e/cd/af/6ecdaf19ada1108bd710c3aa6842368d.jpg"
     },
 	{
       "id": 18,
       "name_category": "1",
-      "wallpaper_name": "Image 18",
+      "wallpaper_name": "Gacha 18",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/8b/fa/5b/8bfa5b3e4626da743873906de8f70542.jpg"
     },
 	{
       "id": 19,
       "name_category": "1",
-      "wallpaper_name": "Image 19",
+      "wallpaper_name": "Gacha 19",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/736x/03/0d/8a/030d8a6961ddc599dcbf74d02644389b.jpg"
     },
 	{
       "id": 20,
       "name_category": "1",
-      "wallpaper_name": "Image 20",
+      "wallpaper_name": "Gacha 20",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/b7/88/29/b788299e40670e50fe5bf1de93893a26.jpg"
     },
 	{
       "id": 21,
       "name_category": "1",
-      "wallpaper_name": "Image 21",
+      "wallpaper_name": "Gacha 21",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/f5/e2/58/f5e258d31a833036de4e838bb4dfdf9e.jpg"
     },
 	{
       "id": 22,
       "name_category": "1",
-      "wallpaper_name": "Image 22",
+      "wallpaper_name": "Gacha 22",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/8e/42/d1/8e42d13ebc6a58c831f624a122cc501b.jpg"
     },
 	{
       "id": 23,
       "name_category": "1",
-      "wallpaper_name": "Image 23",
+      "wallpaper_name": "Gacha 23",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/23/d5/94/23d594886160c98397e8194a5eb74f13.jpg"
     },
 	{
       "id": 24,
       "name_category": "1",
-      "wallpaper_name": "Image 24",
+      "wallpaper_name": "Gacha 24",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/00/21/98/0021988c2b6f606d13d902a50caf1f11.jpg"
     },
 	{
       "id": 25,
       "name_category": "1",
-      "wallpaper_name": "Image 25",
+      "wallpaper_name": "Gacha 25",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/07/b8/a9/07b8a9dbf4582abc3da0eab094465cb7.jpg"
     },
 	{
       "id": 26,
       "name_category": "1",
-      "wallpaper_name": "Image 26",
+      "wallpaper_name": "Gacha 26",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/3c/7e/f0/3c7ef05cea92895593bc3bad0a8c0464.jpg"
     },
 	{
       "id": 27,
       "name_category": "1",
-      "wallpaper_name": "Image 27",
+      "wallpaper_name": "Gacha 27",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/53/21/3a/53213afadf6e23e99038a3aa8db5bad3.jpg"
     },
 	{
       "id": 28,
       "name_category": "1",
-      "wallpaper_name": "Image 28",
+      "wallpaper_name": "Gacha 28",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/e2/35/20/e235202a378c0121f56e9b4f4c1cd0f6.jpg"
     },
 	{
       "id": 29,
       "name_category": "1",
-      "wallpaper_name": "Image 29",
+      "wallpaper_name": "Gacha 29",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/cb/0b/6e/cb0b6e1fc3d3ef017b8110e04665e6f0.jpg"
     },
 	{
       "id": 30,
       "name_category": "1",
-      "wallpaper_name": "Image 30",
+      "wallpaper_name": "Gacha 30",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/0a/25/eb/0a25ebb96b356145b1722a3184f28331.jpg"
     },
 	{
       "id": 31,
       "name_category": "1",
-      "wallpaper_name": "Image 31",
+      "wallpaper_name": "Gacha 31",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/5c/ea/80/5cea805802415a97d46821e34dd75d53.jpg"
     },
 	{
       "id": 32,
       "name_category": "1",
-      "wallpaper_name": "Image 32",
+      "wallpaper_name": "Gacha 32",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/8f/1c/e4/8f1ce48fbf5fc74070a0613f66b62ca9.jpg"
     },
 	{
       "id": 33,
       "name_category": "1",
-      "wallpaper_name": "Image 33",
+      "wallpaper_name": "Gacha 33",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/c0/f7/64/c0f76413fca3f241f322f5fcd9e8562d.jpg"
     },
 	{
       "id": 34,
       "name_category": "1",
-      "wallpaper_name": "Image 34",
+      "wallpaper_name": "Gacha 34",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/19/a7/63/19a76332e98fb65f11ed42d2f88f214d.jpg"
     },
 	{
       "id": 35,
       "name_category": "1",
-      "wallpaper_name": "Image 35",
+      "wallpaper_name": "Gacha 35",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/6a/2f/90/6a2f903d242215d20aadad98c0f8a40c.jpg"
     },
 	{
       "id": 36,
       "name_category": "1",
-      "wallpaper_name": "Image 36",
+      "wallpaper_name": "Gacha 36",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/54/ea/a1/54eaa19b7ffb64c0b749ef28544a820f.jpg"
     },
 	{
       "id": 37,
       "name_category": "1",
-      "wallpaper_name": "Image 37",
+      "wallpaper_name": "Gacha 37",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d6/4d/cb/d64dcb5032127da722b890cfeb50d346.jpg"
     },
 	{
       "id": 38,
       "name_category": "1",
-      "wallpaper_name": "Image 38",
+      "wallpaper_name": "Gacha 38",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/9b/cf/22/9bcf22f427398ee7de8479998b49a370.jpg"
     },
 	{
       "id": 39,
       "name_category": "1",
-      "wallpaper_name": "Image 39",
+      "wallpaper_name": "Gacha 39",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/e3/6e/de/e36edebb5d1e88408e02b0b70dde1df5.jpg"
     },
 	{
       "id": 40,
       "name_category": "1",
-      "wallpaper_name": "Image 40",
+      "wallpaper_name": "Gacha 40",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/1c/43/f2/1c43f220ca54324dd4552cdf5636a8ab.jpg"
     },
 	{
       "id": 41,
       "name_category": "1",
-      "wallpaper_name": "Image 41",
+      "wallpaper_name": "Gacha 41",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/99/a3/bb/99a3bbd6fc32b77df53099b5d82aae06.jpg"
     },
 	{
       "id": 42,
       "name_category": "1",
-      "wallpaper_name": "Image 42",
+      "wallpaper_name": "Gacha 42",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/44/fd/18/44fd1873afc0129bbc1ccd82e370ab3c.jpg"
     },
 	{
       "id": 43,
       "name_category": "1",
-      "wallpaper_name": "Image 43",
+      "wallpaper_name": "Gacha 43",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/736x/f2/72/0e/f2720ea75f99104dff75326db9f2a309.jpg"
     },
 	{
       "id": 44,
       "name_category": "1",
-      "wallpaper_name": "Image 44",
+      "wallpaper_name": "Gacha 44",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/fc/ad/94/fcad94e6612e104f496522bfb8eadd02.jpg"
     },
 	{
       "id": 45,
       "name_category": "1",
-      "wallpaper_name": "Image 45",
+      "wallpaper_name": "Gacha 45",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/67/79/f9/6779f9b9822a05125646e5d388122e2a.jpg"
     },
 	{
       "id": 46,
       "name_category": "1",
-      "wallpaper_name": "Image 46",
+      "wallpaper_name": "Gacha 46",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/78/f4/b9/78f4b9d13266b8be82667bf62909e124.jpg"
     },
 	{
       "id": 47,
       "name_category": "1",
-      "wallpaper_name": "Image 47",
+      "wallpaper_name": "Gacha 47",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/33/bc/11/33bc1109ee5158783624eeac66c490bc.jpg"
     },
 	{
       "id": 48,
       "name_category": "1",
-      "wallpaper_name": "Image 48",
+      "wallpaper_name": "Gacha 48",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/22/b5/62/22b5629ee1dab14dae68301cc28f7f01.jpg"
     },
 	{
       "id": 49,
       "name_category": "1",
-      "wallpaper_name": "Image 49",
+      "wallpaper_name": "Gacha 49",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/97/2b/91/972b91d691840096a02e2c8bfdaf5e17.jpg"
     },
 	{
       "id": 50,
       "name_category": "1",
-      "wallpaper_name": "Image 50",
+      "wallpaper_name": "Gacha 50",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d7/fc/ec/d7fcec85bc21117c3787425d2b787fe9.jpg"
     },
 	{
       "id": 51,
       "name_category": "1",
-      "wallpaper_name": "Image 51",
+      "wallpaper_name": "Gacha 51",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d9/3c/ed/d93ced30b04dd0d14aa56254adfc01d9.jpg"
     },
 	{
       "id": 52,
       "name_category": "1",
-      "wallpaper_name": "Image 52",
+      "wallpaper_name": "Gacha 52",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/9a/1d/78/9a1d78c696fbf7d6dbd891be29a929bc.jpg"
     },
 	{
       "id": 53,
       "name_category": "1",
-      "wallpaper_name": "Image 53",
+      "wallpaper_name": "Gacha 53",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/4f/9f/2f/4f9f2f3e62a7c864e8b20f917fa17054.jpg"
     },
 	{
       "id": 54,
       "name_category": "1",
-      "wallpaper_name": "Image 54",
+      "wallpaper_name": "Gacha 54",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/18/10/31/1810314975562774dea72de6bad9dde6.jpg"
     },
 	{
       "id": 55,
       "name_category": "1",
-      "wallpaper_name": "Image 55",
+      "wallpaper_name": "Gacha 55",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/75/11/de/7511de527f3bc2ef1d9fc2ce9d91531e.jpg"
     },
 	{
       "id": 56,
       "name_category": "1",
-      "wallpaper_name": "Image 56",
+      "wallpaper_name": "Gacha 56",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/4f/68/68/4f68688bc795de1e1961d283b095a900.jpg"
     },
 	{
       "id": 57,
       "name_category": "1",
-      "wallpaper_name": "Image 57",
+      "wallpaper_name": "Gacha 57",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/0e/80/4d/0e804d01a4a41d53b8c5311d62262d25.jpg"
     },
 	{
       "id": 58,
       "name_category": "1",
-      "wallpaper_name": "Image 58",
+      "wallpaper_name": "Gacha 58",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/29/28/94/2928949e4a37f7a55c9c32b78577ffe5.jpg"
     },
 	{
       "id": 59,
       "name_category": "1",
-      "wallpaper_name": "Image 59",
+      "wallpaper_name": "Gacha 59",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/2b/43/a2/2b43a2eb07413d1dc26530f3b22684fb.jpg"
     },
 	{
       "id": 60,
       "name_category": "1",
-      "wallpaper_name": "Image 60",
+      "wallpaper_name": "Gacha 60",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ec/9f/02/ec9f029f2301a745063b9b0baf944896.jpg"
     },
 	{
       "id": 61,
       "name_category": "1",
-      "wallpaper_name": "Image 61",
+      "wallpaper_name": "Gacha 61",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/c5/80/4d/c5804d81bbb9b86bebe13cb4ab2444b5.jpg"
     },
 	{
       "id": 62,
       "name_category": "1",
-      "wallpaper_name": "Image 62",
+      "wallpaper_name": "Gacha 62",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/b4/b8/78/b4b87811ce86491b39aafd8c8a4ad98d.jpg"
     },
 	{
       "id": 63,
       "name_category": "1",
-      "wallpaper_name": "Image 63",
+      "wallpaper_name": "Gacha 63",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/bd/f4/5f/bdf45f105c42cd17abde8656c8c013ab.jpg"
     },
 	{
       "id": 64,
       "name_category": "1",
-      "wallpaper_name": "Image 64",
+      "wallpaper_name": "Gacha 64",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/29/e4/03/29e403a8dfa27a41894db4584c4eefc2.jpg"
     },
 	{
       "id": 65,
       "name_category": "1",
-      "wallpaper_name": "Image 65",
+      "wallpaper_name": "Gacha 65",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/1c/06/de/1c06de566d93c69c05f2e456c9104ae5.jpg"
     },
 	{
       "id": 66,
       "name_category": "1",
-      "wallpaper_name": "Image 66",
+      "wallpaper_name": "Gacha 66",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d1/92/40/d19240f001a1724f25ab81bf97a1a30f.jpg"
     },
 	{
       "id": 67,
       "name_category": "1",
-      "wallpaper_name": "Image 67",
+      "wallpaper_name": "Gacha 67",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/9d/bc/46/9dbc4655f73fe780fad08614b577f6ff.jpg"
     },
 	{
       "id": 68,
       "name_category": "1",
-      "wallpaper_name": "Image 68",
+      "wallpaper_name": "Gacha 68",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/28/54/53/285453a5a0753141ffd9ea4d8853ddb5.jpg"
     },
 	{
       "id": 69,
       "name_category": "1",
-      "wallpaper_name": "Image 69",
+      "wallpaper_name": "Gacha 69",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/56/91/05/56910541d302978d9a96ed8f2a5ee67f.jpg"
     },
 	{
       "id": 70,
       "name_category": "1",
-      "wallpaper_name": "Image 70",
+      "wallpaper_name": "Gacha 70",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/af/85/62/af8562cee20fe726e955b1c9d0836618.jpg"
     },
 	{
       "id": 71,
       "name_category": "1",
-      "wallpaper_name": "Image 71",
+      "wallpaper_name": "Gacha 71",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/b7/d7/55/b7d755a429bb88b934fac8791667213b.jpg"
     },
 	{
       "id": 72,
       "name_category": "1",
-      "wallpaper_name": "Image 72",
+      "wallpaper_name": "Gacha 72",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/15/2e/95/152e954d14f9b4d50ce3a8aaf00936c5.jpg"
     },
 	{
       "id": 73,
       "name_category": "1",
-      "wallpaper_name": "Image 73",
+      "wallpaper_name": "Gacha 73",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/e4/23/3c/e4233ce632ebf5517a7248393727abb2.jpg"
     },
 	{
       "id": 74,
       "name_category": "1",
-      "wallpaper_name": "Image 74",
+      "wallpaper_name": "Gacha 74",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/99/97/6a/99976ac72a0c78842db94a5d0d05df2a.jpg"
     },
 	{
       "id": 75,
       "name_category": "1",
-      "wallpaper_name": "Image 75",
+      "wallpaper_name": "Gacha 75",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/fa/d0/dd/fad0dd297c4890b1575ca0a170999f02.jpg"
     },
 	{
       "id": 76,
       "name_category": "1",
-      "wallpaper_name": "Image 76",
+      "wallpaper_name": "Gacha 76",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/2f/b0/8a/2fb08a3fed66e65524d7bf16b0d70515.jpg"
     },
 	{
       "id": 77,
       "name_category": "1",
-      "wallpaper_name": "Image 77",
+      "wallpaper_name": "Gacha 77",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d0/24/0b/d0240ba32a9657c9c9a0eeb2a53964d1.jpg"
     },
 	{
       "id": 78,
       "name_category": "1",
-      "wallpaper_name": "Image 78",
+      "wallpaper_name": "Gacha 78",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/32/98/94/329894d01849bc73e268fdea9d5d9c5e.jpg"
     },
 	{
       "id": 79,
       "name_category": "1",
-      "wallpaper_name": "Image 79",
+      "wallpaper_name": "Gacha 79",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/06/c7/1b/06c71beee03f09a7072a78dea5a24299.jpg"
     },
 	{
       "id": 80,
       "name_category": "1",
-      "wallpaper_name": "Image 80",
+      "wallpaper_name": "Gacha 80",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/736x/0c/31/e7/0c31e720d7156dea9bbb426126a10db2.jpg"
     },
 	{
       "id": 81,
       "name_category": "1",
-      "wallpaper_name": "Image 81",
+      "wallpaper_name": "Gacha 81",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/7a/bb/99/7abb994d146f42d6042256221b77d597.jpg"
     },
 	{
       "id": 82,
       "name_category": "1",
-      "wallpaper_name": "Image 82",
+      "wallpaper_name": "Gacha 82",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/8c/9e/b0/8c9eb05f5a6edfd2f85e0846e8f1973a.jpg"
     },
 	{
       "id": 83,
       "name_category": "1",
-      "wallpaper_name": "Image 83",
+      "wallpaper_name": "Gacha 83",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/b6/4e/44/b64e44e6cf17a26334211f023617f8e8.jpg"
     },
 	{
       "id": 84,
       "name_category": "1",
-      "wallpaper_name": "Image 84",
+      "wallpaper_name": "Gacha 84",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/750x/f3/3c/45/f33c4501480d2504581be6369f0b4e84.jpg"
     },
 	{
       "id": 85,
       "name_category": "1",
-      "wallpaper_name": "Image 85",
+      "wallpaper_name": "Gacha 85",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/6c/64/76/6c6476b98d17454085b8a651d51d5154.jpg"
     },
 	{
       "id": 86,
       "name_category": "1",
-      "wallpaper_name": "Image 86",
+      "wallpaper_name": "Gacha 86",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ed/3b/fc/ed3bfcca7e748deee330e17b12d15ccb.jpg"
     },
 	{
       "id": 87,
       "name_category": "1",
-      "wallpaper_name": "Image 87",
+      "wallpaper_name": "Gacha 87",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/db/6b/80/db6b80741b96d27f8c7b90811193e8f2.jpg"
     },
 	{
       "id": 88,
       "name_category": "1",
-      "wallpaper_name": "Image 88",
+      "wallpaper_name": "Gacha 88",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/736x/78/42/c5/7842c55b84bb1baaaee6da39490f2acb.jpg"
     },
 	{
       "id": 89,
       "name_category": "1",
-      "wallpaper_name": "Image 89",
+      "wallpaper_name": "Gacha 89",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/07/2d/f5/072df51997b0f80373b7713c1e059123.jpg"
     },
 	{
       "id": 90,
       "name_category": "1",
-      "wallpaper_name": "Image 90",
+      "wallpaper_name": "Gacha 90",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/2e/fd/3c/2efd3ce49eabb8505c65fa1a8617f077.jpg"
     },
 	{
       "id": 91,
       "name_category": "1",
-      "wallpaper_name": "Image 91",
+      "wallpaper_name": "Gacha 91",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/2d/fa/4a/2dfa4a28309b95dc93db9bb852c041a0.jpg"
     },
 	{
       "id": 92,
       "name_category": "1",
-      "wallpaper_name": "Image 92",
+      "wallpaper_name": "Gacha 92",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/e0/af/cd/e0afcd482fb805d5b50ff3bb9f5bcbd9.jpg"
     },
 	{
       "id": 93,
       "name_category": "1",
-      "wallpaper_name": "Image 93",
+      "wallpaper_name": "Gacha 93",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/736x/f1/2d/d8/f12dd81dd4da5f38a3f2fe886b0f0273.jpg"
     },
 	{
       "id": 94,
       "name_category": "1",
-      "wallpaper_name": "Image 94",
+      "wallpaper_name": "Gacha 94",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/b5/ab/e2/b5abe241878b9bbda611ffbc30f6d732.jpg"
     },
 	{
       "id": 95,
       "name_category": "1",
-      "wallpaper_name": "Image 95",
+      "wallpaper_name": "Gacha 95",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/5c/fc/cd/5cfccd31f6480f011500ffad0993ccd5.jpg"
     },
 	{
       "id": 96,
       "name_category": "1",
-      "wallpaper_name": "Image 96",
+      "wallpaper_name": "Gacha 96",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/736x/78/24/1e/78241e7476ea5cd3f33fbe261cdb9519.jpg"
     },
 	{
       "id": 97,
       "name_category": "1",
-      "wallpaper_name": "Image 97",
+      "wallpaper_name": "Gacha 97",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/0d/fb/87/0dfb87d1eba2c8cbc9751566f955c9ab.jpg"
     },
 	{
       "id": 98,
       "name_category": "1",
-      "wallpaper_name": "Image 98",
+      "wallpaper_name": "Gacha 98",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/6a/db/3d/6adb3d366362d0946e292eec9dd28458.jpg"
     },
 	{
       "id": 99,
       "name_category": "1",
-      "wallpaper_name": "Image 99",
+      "wallpaper_name": "Gacha 99",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/83/93/c6/8393c6bc8e6b6afb8102045fdff01aca.jpg"
     },
 	{
       "id": 100,
       "name_category": "1",
-      "wallpaper_name": "Image 100",
+      "wallpaper_name": "Gacha 100",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/75/e9/3c/75e93c54512cb9cfb3eafa7772835bc4.jpg"
     }
     
   ]
